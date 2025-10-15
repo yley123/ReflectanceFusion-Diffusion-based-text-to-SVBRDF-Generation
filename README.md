@@ -3,9 +3,9 @@
 ### [Paper (arXiv)](https://arxiv.org/abs/2406.14565) | [Paper (EG)](https://diglib.eg.org/items/bd1075f3-4f4b-410f-9159-2143b4e97e82) | [Project Page](https://github.com/yley123/ReflectanceFusion-Diffusion-based-text-to-SVBRDF-Generation)
 
 [Bowen Xue](https://github.com/yley123)<sup>1</sup>, 
-[Giuseppe Claudio Guarnera](https://scholar.google.com/)<sup>2</sup>, 
+[Giuseppe Claudio Guarnera](https://sites.google.com/view/giuseppe-claudio-guarnera)<sup>2</sup>, 
 [Shuang Zhao](https://www.shuangz.com/)<sup>3</sup>, 
-[Zahra Montazeri](https://www.zahramontazeri.com/)<sup>1</sup>
+[Zahra Montazeri](https://research.manchester.ac.uk/en/persons/zahra.montazeri)<sup>1</sup>
 
 <sup>1</sup>University of Manchester, 
 <sup>2</sup>University of York, 
